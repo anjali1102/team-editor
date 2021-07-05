@@ -1,1 +1,3 @@
-# team-editor
+# WhiteBoard
+
+https://team-stack.netlify.app/
